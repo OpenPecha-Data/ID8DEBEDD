@@ -1,0 +1,40 @@
+id: ID8DEBEDD
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T18:53:59.477234'
+last_modified: '2022-05-30T18:53:59.477246'
+parser: null
+source_metadata:
+  title: Drikung Kyobpa Jikten Sumgön
+  language: en
+  description: 'Texts by and about Drikung Kyobpa Jikten Sumgön (''bri gung skyob
+    pa ''jig rten gsum mgon, 1143–1217), founder of the Drikung Kagyü tradition:'
+  volume:
+    f7B2C:
+      title: In Praise of Padmākara, the Great Guru of Uḍḍiyāna
+      base_file: f7B2C.txt
+      order: 1
+      parent: Praise
+    f127F:
+      title: 'Praise of the Buddha: With Skilful Means & Compassion...'
+      base_file: f127F.txt
+      order: 2
+      parent: Praise
+    f19B0:
+      title: Verses in Praise of the Protector Akṣobhya
+      base_file: f19B0.txt
+      order: 3
+      parent: Praise
+    f9BF9:
+      title: 'Prayer to Tārā: A Sevenfold Supplication for Protection'
+      base_file: f9BF9.txt
+      order: 4
+      parent: Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
